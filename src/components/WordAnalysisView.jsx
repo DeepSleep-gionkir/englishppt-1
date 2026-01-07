@@ -13,7 +13,7 @@ const interleavedWordList = [
   { en: "glass", ko: "유리" },
   { en: "evergreen", ko: "늘 푸르른" },
   { en: "steal", ko: "훔치다" },
-  { en: "pretty", ko: "꽤, 아주" },
+  { en: "pretty", ko: "예쁜" },
   { en: "storm", ko: "폭풍" },
   { en: "golden", ko: "금색의, 금빛의" },
   { en: "fool", ko: "바보" },
