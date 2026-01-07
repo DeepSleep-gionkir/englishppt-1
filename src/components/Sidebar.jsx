@@ -55,9 +55,9 @@ const Sidebar = () => {
       {/* User Profile */}
       <div className="sidebar-footer">
         <div className="user-profile">
-          <div className="user-avatar">꿀</div>
+          <div className="user-avatar">김</div>
           <div className="user-info">
-            <span className="user-name">꿀잠</span>
+            <span className="user-name">김은호</span>
             <span className="user-plan">무료 요금제</span>
           </div>
         </div>

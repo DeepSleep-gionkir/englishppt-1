@@ -367,7 +367,7 @@ const MainContent = ({ onSendMessage, chatHistory = [] }) => {
             <div className="icon-wrapper">
               <PineIcon className="greeting-icon" />
             </div>
-            좋은 아침입니다, 꿀잠님
+            좋은 아침입니다, 김은호님
           </h1>
         </div>
 
