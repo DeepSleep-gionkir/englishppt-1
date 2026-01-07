@@ -11,7 +11,7 @@ const interleavedWordList = [
   { en: "bare", ko: "숲" },
   { en: "needle", ko: "침엽" },
   { en: "glass", ko: "유리" },
-  { en: "evergreen", ko: "늘 푸르른" },
+  { en: "evergreen", ko: "늘 푸른" },
   { en: "steal", ko: "훔치다" },
   { en: "pretty", ko: "예쁜" },
   { en: "storm", ko: "폭풍" },
