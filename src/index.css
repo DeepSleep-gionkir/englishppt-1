@@ -1786,6 +1786,10 @@ textarea {
   top: 0;
 }
 
+.thankyou-bar.bottom {
+  bottom: 0;
+}
+
 /* Responsive adjustments for Presentation View */
 /* Increased to 1600px to cover user's 1458px layout boundary */
 @media (max-width: 1600px) {
