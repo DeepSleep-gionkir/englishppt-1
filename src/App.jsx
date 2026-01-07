@@ -61,7 +61,7 @@ function App() {
     ) {
       newAiMsg = {
         role: "ai",
-        text: "네, 지문에 나온 영단어를 정리해 드립니다.", // Removed '요'
+        text: "네, 지문에 나온 영단어를 정리해 드리겠습니다.", // Removed '요'
         attachment: {
           type: "words",
           title: "영어 독해",

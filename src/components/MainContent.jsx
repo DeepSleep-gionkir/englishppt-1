@@ -67,7 +67,7 @@ const MainContent = ({ onSendMessage, chatHistory = [] }) => {
         currentInput.includes("보여줘"))
     ) {
       targetView = "words";
-      response = "네, 지문에 나온 영단어를 정리해 드립니다.";
+      response = "네, 지문에 나온 영단어를 정리해 드리겠습니다.";
     }
     // Trigger 3: Quiz
     // Relaxed check: "퀴즈" is unique enough
